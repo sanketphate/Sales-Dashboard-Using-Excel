@@ -1,7 +1,7 @@
 # Sales-Dashboard-Using-Excel
  This project is an interactive Sales Dashboard built in Microsoft Excel. The dashboard analyzes sales data to provide insights into performance, profitability, and customer behavior.
  
- 📂 Repository Contents
+📂 Repository Contents:-
 #-Raw dataset used for building the dashboard
 - <a href="https://github.com/sanketphate/Sales-Dashboard-Using-Excel/blob/main/salesdata%20(1).xlsx"> Dataset view</a>
 
